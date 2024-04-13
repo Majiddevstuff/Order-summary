@@ -13,7 +13,7 @@
 body{
    background-color:var(--Pale-blue);
    font-family:"Red Hat Display";
-   background-image:url(./pattern-background-mobile.png);
+   background-image:url(../pattern-background-mobile.png);
    background-repeat: no-repeat;
    background-size:100%;
    height:100svh;
@@ -147,7 +147,7 @@ a:hover {
 }
 @media screen and (min-width: 768px) {
    body {
-   background-image: url(./pattern-background-desktop.png);
+   background-image: url(../pattern-background-desktop.png);
    background-size:100%;
    height:100svh;
    }
@@ -190,7 +190,7 @@ a:hover {
     
 @media screen and (min-width: 768px) and (orientation: landscape) {
    body {
-   background-image: url(./pattern-background-desktop.png);
+   background-image: url(../pattern-background-desktop.png);
     }
    .card {
    width: 45%;  
